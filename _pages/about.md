@@ -8,8 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This is a collection of short descriptions of projects I've done on Github. I may add more stuff later.
+I've spent most of my career working as a quantitative analyst for a Global Macro hedge fund. My main software-related interests are generative Bayesian modeling, especially via Stan, and complex systems.
 
-The site was made using academicpages
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
