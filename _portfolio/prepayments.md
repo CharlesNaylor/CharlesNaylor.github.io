@@ -1,6 +1,6 @@
 ---
 title: "Prepayment Model for GNMII MBSs"
-excerpt: "Zero-inflated Poisson model for predicting prepayment rates of Ginnia Mae MBSs<br/><img src='/images/gp2.svg'>"
+excerpt: "Zero-inflated Poisson model for predicting prepayment rates of Ginnia Mae MBSs<br/><img src='/images/prepayments.svg'>"
 collection: portfolio
 ---
 # <a href="https://github.com/CharlesNaylor/prepayments">Inflated Poisson Hurdle Model for Ginnie Mae Prepayments</a>
