@@ -19,7 +19,7 @@ I'm authorized to work in both the US and UK.
 
 Skills
 ======
-|
+| | |
 |:--- | ---:|
 |Programming | R, Python, Stan, VBA, SQL, Java |
 |Software | Windows, Linux, Excel, Word, Powerpoint, VI, LaTeX, Bloomberg API, AIM, Datastream, Access, PostgreSQL, MS SQL Server |
