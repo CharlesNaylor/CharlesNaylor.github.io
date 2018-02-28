@@ -1,7 +1,7 @@
 ---
 title: "Celtic Knots based on Cellular Automata"
 excerpt: "Simple code for generating reversible cellular automata, then converting the pattern into nodes and edges suitable for Knotter<br/><img src='/images/ca.png'>"
-background-image: "neg_boolean.png"
+background-image: url(neg_boolean.png)
 collection: portfolio
 ---
 
