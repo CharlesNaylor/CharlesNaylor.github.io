@@ -1,6 +1,6 @@
 ---
 title: "<a href='/gp_regression'>Gaussian Process Regression for FX Forecasting</a>"
-excerpt: "Demonstration Workflow of quantitative analysis on the buy-side to produce a forecasting model.<br/><img src='/images/gp2.svg'>"
+excerpt: "Demonstration Workflow of quantitative analysis on the buy-side to produce a forecasting model.<br/><img src='/images/gp.png'>"
 collection: portfolio
 ---
 
