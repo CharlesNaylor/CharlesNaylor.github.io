@@ -1,5 +1,5 @@
 ---
-title: "<a href='https://github.com/CharlesNaylor/reversible_ca'>Celtic Knots based on Cellular Automata</a>"
+title: "Celtic Knots based on Cellular Automata"
 excerpt: "Simple code for generating reversible cellular automata, then converting the pattern into nodes and edges suitable for Knotter<br/><img src='/images/ca.png'>"
 background-image: url(neg\_boolean.png)
 collection: portfolio
@@ -18,5 +18,7 @@ The final picture I generated for my hallway was huge, and too big to upload her
 
 Maybe someday I'll find a use for the vinyl banner...
 
-# Greatly simplified version
+## <a href='https://github.com/CharlesNaylor/reversible_ca'>Code</a>
+
+## Greatly simplified version
 <img align='right' src='/images/neg_boolean.png'>
