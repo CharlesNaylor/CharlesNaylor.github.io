@@ -1,6 +1,6 @@
 ---
 title: "Commodity Smart Beta Strategy"
-excerpt: "Basic implementation of a potentially Dollar-neutral done as homework for an interview<br/><img src="images/pfc_hat.png" height='240' width='336'>"
+excerpt: "Basic implementation of a potentially Dollar-neutral done as homework for an interview<br/><img src='images/pfc_hat.png' height='240' width='336'>"
 collection: portfolio
 ---
 

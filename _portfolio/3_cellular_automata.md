@@ -20,5 +20,5 @@ Maybe someday I'll find a use for the vinyl banner...
 
 ## <a href='https://github.com/CharlesNaylor/reversible_ca'>Code</a>
 
-## Greatly simplified version
+## Small Version
 <img align='right' src='/images/neg_boolean.png'>
